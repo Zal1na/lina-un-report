@@ -1,0 +1,6 @@
+.RData
+.Rhistory
+.Rproj.user
+git add.gitignore
+git commit -m "Create .gitignore file"
+
